@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95427bcf-1214-4652-b48f-8cc44203f5c1" name="Changes" comment="Menyelesaikan Kotlin Object Oriented Programming-Generic Kotlin" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Enum" />
+        <option value="Kotlin Object" />
+        <option value="Kotlin Annotation" />
+        <option value="package-info" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Immanuel Roni Kristian Handoko" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2jmxPl20axmL6nOnWFqeWQtguE0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Kotlin.AI1Kt.executor": "Run",
+    "Kotlin.AbstracClassKt.executor": "Run",
+    "Kotlin.AbstracProperties_FunctionKt.executor": "Run",
+    "Kotlin.AnimalKt.executor": "Run",
+    "Kotlin.ComparableKt.executor": "Run",
+    "Kotlin.Constructor_ObjectCarKt.executor": "Run",
+    "Kotlin.ContohAIKt.executor": "Run",
+    "Kotlin.ContohKt.executor": "Run",
+    "Kotlin.ContohLainKt.executor": "Run",
+    "Kotlin.ContohValueClassKt.executor": "Run",
+    "Kotlin.ContravariantKt.executor": "Run",
+    "Kotlin.CovariantKt.executor": "Run",
+    "Kotlin.ExampleAIKt.executor": "Run",
+    "Kotlin.FunctionClassKt.executor": "Run",
+    "Kotlin.GenericConstraintsKt.executor": "Run",
+    "Kotlin.Getter_SetterKt.executor": "Run",
+    "Kotlin.HashCodeKt.executor": "Run",
+    "Kotlin.HpConstructorKt.executor": "Run",
+    "Kotlin.InterfaceConflictKt (1).executor": "Run",
+    "Kotlin.InterfaceConflictKt.executor": "Run",
+    "Kotlin.ListCollectionKt.executor": "Run",
+    "Kotlin.MainAnonKt.executor": "Run",
+    "Kotlin.MainEnumKt.executor": "Run",
+    "Kotlin.MainEqualsKt.executor": "Run",
+    "Kotlin.MainExtensionFunctionKt.executor": "Run",
+    "Kotlin.MainFunKt (1).executor": "Run",
+    "Kotlin.MainFunKt (2).executor": "Run",
+    "Kotlin.MainFunKt (3).executor": "Run",
+    "Kotlin.MainFunKt.executor": "Run",
+    "Kotlin.MainFunctionKt.executor": "Run",
+    "Kotlin.MainInnerClassKt.executor": "Run",
+    "Kotlin.MainKt (1).executor": "Run",
+    "Kotlin.MainKt (2).executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
+    "Kotlin.MainSealedClassKt.executor": "Run",
+    "Kotlin.MainSingletonKt.executor": "Run",
+    "Kotlin.MinumanKt.executor": "Run",
+    "Kotlin.MultiConstrantsKt.executor": "Run",
+    "Kotlin.MyDataKt.executor": "Run",
+    "Kotlin.MyInformationKt.executor": "Run",
+    "Kotlin.NullSafetyKt.executor": "Run",
+    "Kotlin.ObjectKt.executor": "Run",
+    "Kotlin.ObjectPersonKt.executor": "Run",
+    "Kotlin.ObjekInheritanceKt.executor": "Run",
+    "Kotlin.ObjekJamTanganKt.executor": "Run",
+    "Kotlin.ObjekOverridingKt.executor": "Run",
+    "Kotlin.ObjekSuperConstructorKt.executor": "Run",
+    "Kotlin.ObjekSuperKt.executor": "Run",
+    "Kotlin.OperatorOverloadingKt.executor": "Run",
+    "Kotlin.PersonFunOverloadingKt.executor": "Run",
+    "Kotlin.PersonKt.executor": "Run",
+    "Kotlin.PropertiesConstructorKt.executor": "Run",
+    "Kotlin.ReadOnlyPropertyKt.executor": "Run",
+    "Kotlin.ShapeObjectKt.executor": "Run",
+    "Kotlin.ThisKeywordKt.executor": "Run",
+    "Kotlin.ToStringFunctionKt.executor": "Run",
+    "Kotlin.TypeProjectionKt.executor": "Run",
+    "Kotlin.VapeObjekKt.executor": "Run",
+    "Kotlin._01_ListCollectionKt.executor": "Run",
+    "Kotlin._02_SetCollectionKt.executor": "Run",
+    "Kotlin._03_PairCollectionKt.executor": "Run",
+    "Kotlin._04_MapCollectionKt.executor": "Run",
+    "Kotlin._04_MapContohKt.executor": "Run",
+    "Kotlin._5_CollectionKt.executor": "Run",
+    "Kotlin._6_IterableKt.executor": "Run",
+    "Kotlin._7_IteratorKt.executor": "Run",
+    "Kotlin._8_KonversiCollectionKt.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Kotlin OOP/Kotlin OOP PZN/src/belajar/generic/GenericType",
+    "onboarding.tips.debug.path": "D:/Kotlin OOP/Kotlin OOP PZN/src/Main.kt",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Kotlin OOP\Kotlin OOP PZN\src\belajar\generic\GenericType" />
+      <recent name="D:\Kotlin OOP\Kotlin OOP PZN\src\belajar\oop" />
+      <recent name="D:\Kotlin OOP\Kotlin OOP PZN\src\belajar\oop\FunOverloading" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Kotlin OOP\Kotlin OOP PZN\src\belajar\oop\chapter1\object" />
+      <recent name="D:\Kotlin OOP\Kotlin OOP PZN\src\belajar\oop\chapter1" />
+      <recent name="D:\Kotlin OOP\Kotlin OOP PZN\src\belajar\oop\MainConstructor" />
+      <recent name="D:\Kotlin OOP\Kotlin OOP PZN\src\belajar\oop\secondaryConstructor" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="PropertiesConstructor" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="belajar.oop" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin._02_SetCollectionKt">
+    <configuration name="_01_ListCollectionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.collection.List._01_ListCollectionKt" />
+      <module name="Kotlin OOP PZN" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_02_SetCollectionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.collection.List._02_SetCollectionKt" />
+      <module name="Kotlin OOP PZN" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_03_PairCollectionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.collection.List._03_PairCollectionKt" />
+      <module name="Kotlin OOP PZN" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_04_MapCollectionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.collection.List._04_MapCollectionKt" />
+      <module name="Kotlin OOP PZN" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_8_KonversiCollectionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.collection.List._8_KonversiCollectionKt" />
+      <module name="Kotlin OOP PZN" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin._02_SetCollectionKt" />
+        <item itemvalue="Kotlin._04_MapCollectionKt" />
+        <item itemvalue="Kotlin._03_PairCollectionKt" />
+        <item itemvalue="Kotlin._01_ListCollectionKt" />
+        <item itemvalue="Kotlin._8_KonversiCollectionKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95427bcf-1214-4652-b48f-8cc44203f5c1" name="Changes" comment="" />
+      <created>1722006032943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722006032943</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Menyelesaikan Kotlin Object Oriented Programming">
+      <option name="closed" value="true" />
+      <created>1732799074211</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732799074211</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Menyelesaikan Kotlin Object Oriented Programming-Generic Kotlin">
+      <option name="closed" value="true" />
+      <created>1743118381047</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743118381047</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a" />
+    <MESSAGE value="Menyelesaikan Kotlin Object Oriented Programming" />
+    <MESSAGE value="Menyelesaikan Kotlin Object Oriented Programming-Generic Kotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menyelesaikan Kotlin Object Oriented Programming-Generic Kotlin" />
+  </component>
+</project>
