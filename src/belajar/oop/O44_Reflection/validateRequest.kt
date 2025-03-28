@@ -4,6 +4,7 @@ package belajar.oop.O44_Reflection
 // aku import validation Exception
 import belajar.oop.O41_Exception.ValidationException
 import kotlin.reflect.full.memberProperties
+
 import kotlin.reflect.full.findAnnotation
 
 // Cara seperti di bawah ini tuh capek dan inilah alasan Reflection diciptakan agar lebih mudah.
